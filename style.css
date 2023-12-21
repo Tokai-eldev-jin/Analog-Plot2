@@ -21,7 +21,7 @@ html, body {
 	font-family: 'Lato', Verdana, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 	min-width: 640px;
 	position: relative;
-  background-color: #ffffe0;/*    îwåi     */
+  background-color: #ffffe0;/*    ‚Äùw≈íi     */
 }
 
 hr{
@@ -35,9 +35,10 @@ hr{
   margin: auto;
   width: 100%;
   min-height: 100%;
-  max-width: 640px;
+  /*max-width: 640px;*/
+„ÄÄmax-width: 1040px;
   box-shadow: 0px 0px 20px rgba(0,0,0,0.3);
-  background-color: #e0ffff;/*    îwåi     */
+  background-color: #e0ffff;/*    ‚Äùw≈íi     */
   position: relative;
 }
 .title{
